@@ -1,6 +1,6 @@
 {
   "name": "gestalt-usage-visualizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gestalt Usage Visualizer",
   "main": "index.js",
   "scripts": {
